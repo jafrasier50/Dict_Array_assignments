@@ -20,3 +20,18 @@ while True:
     else:
         print("-------|| Goodbye ||-------")
         break
+
+
+# vvvvvvv below was class example vvvvvvv
+# word = input("Enter ya palindrome word homie: ")
+# reversed_word =""
+#
+# print(len(word))
+#
+# for index in range(len(word)-1,-1,-1):
+#     print(f"reversed_word = {reversed_word} and word[index] = {word[index]}")
+#     reversed_word += word[index]
+# if word == reversed_word:
+#     print("PALINDROME SON")
+# else:
+#     print("WRONG FOOL!")
